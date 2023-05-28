@@ -20,10 +20,6 @@ The chatbot will prompt you to enter your input, and then it will generate a res
 
 To end the chatbot, type "quit" at any time.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 * This chatbot was inspired by the [OpenAI GPT-3 Playground](https://beta.openai.com/playground/)
